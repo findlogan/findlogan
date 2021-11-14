@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @findlogan
 - 👀 I’m interested in developing software for the web using JavaScript and Python.
-- 🌱 I’m currently learning NextJS!!
+- 🌱 I’m currently shaprening PHP skills.
 - 💞️ I’m looking to collaborate on projects in the MERN Stack or with NextJS.
 - 📫 How to reach me: Fill out my contact form on https://findlogan.me
